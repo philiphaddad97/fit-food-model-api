@@ -4,7 +4,7 @@
 - Flask 
 - Docker
 - Tensorflow and Keras: To train and save the model
-- Activated Google Cloud Account
+- Google Cloud Platform
 
 ### 3. Notes:
 - "model.h5" is not uploaded because of the it's large size (~1 GB)
